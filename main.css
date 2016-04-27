@@ -1,0 +1,13 @@
+body {
+	background-image: url(images/Deadpool.jpg);
+	background-size: cover;
+}
+
+#mahvel {
+	width: 500px;
+}
+
+.content {
+	margin-top: 200px;
+	margin-left: 125px;
+}
